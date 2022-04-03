@@ -1,0 +1,28 @@
+[
+    {
+        "id" : "1" ,
+        "image" : "img/karta1.png",
+        "desciption" : "Брюки 'Чёрный тюльпан' / Trousers ''Black tulip''",
+        "wish" : "img/ss.svg" ,
+        "sale" : "10 500 ₽" ,
+        "price"  : "12 000 ₽"
+    },
+
+    {
+        "id" : "2" ,
+        "image" : "img/karta2.png",
+        "desciption" : "Платье «Королевский дворец» / Dress «Royal Palace»",
+        "wish" : "img/ss.svg" ,
+        "sale" : "22 400 ₽" ,
+        "price"  : ""
+    } ,
+
+    {
+        "id" : "3" ,
+        "image" : "img/karta3.png",
+        "desciption" : "Кардиган «Лунный мир» / Cardigan «Lunar world»",
+        "wish" : "img/ss.svg" ,
+        "sale" : "15 700 ₽" ,
+        "price"  : ""
+    }
+]
